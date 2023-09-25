@@ -1,0 +1,16 @@
+.odd-even{
+    margin: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.odd-even input{
+    height: 50px;
+    width: 100px;
+}
+
+.odd-even button{
+    height: 50px;
+    width: 150px;
+}

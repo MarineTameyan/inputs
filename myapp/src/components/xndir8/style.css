@@ -1,0 +1,16 @@
+.validation{
+    margin: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.validation input{
+    height: 50px;
+    width: 100px;
+}
+
+.validation button{
+    height: 50px;
+    width: 150px;
+}

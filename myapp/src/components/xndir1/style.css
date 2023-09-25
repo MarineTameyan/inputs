@@ -1,0 +1,20 @@
+.box{
+    border: 1px solid black;
+}
+
+.height-width{
+    margin: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.height-width input{
+    height: 50px;
+    width: 100px;
+}
+
+.height-width button{
+    height: 50px;
+    width: 150px;
+}
